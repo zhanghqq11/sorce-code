@@ -5830,7 +5830,7 @@ jQuery.extend({
 			}
 
 			// Capture executables
-			if ( scripts ) {  
+			if ( scripts ) {
 				j = 0;
 				while ( (elem = tmp[ j++ ]) ) {
 					if ( rscriptType.test( elem.type || "" ) ) {
